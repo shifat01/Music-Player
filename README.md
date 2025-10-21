@@ -1,6 +1,19 @@
 # 🎵 Music Player
 
 A simple and beautiful **web-based music player** built using **HTML, CSS, and JavaScript**.
+---
+## 🚀 Demo
+
+### 🌐 Live demo: [click here](https://draganddrop01.netlify.app/)
+
+#### or, 
+
+### link: https://draganddrop01.netlify.app/
+---
+
+## 🖼️ Preview
+
+![Music Player Preview](preview.png)
 
 ---
 
@@ -67,11 +80,7 @@ It includes a clean UI, album covers, and smooth animations.
 - Add theme switch (light/dark mode)  
 - Load songs dynamically from JSON
 
----
 
-## 🖼️ Preview
-
-![Music Player Preview](preview.png)
 
 ---
 
@@ -92,7 +101,8 @@ Want to improve this project?
 
 ---
 
-## 📄 License
+## 📝 License
+- [MIT License](LICENSE)
 
 This project is licensed under the **MIT License**.  
 Feel free to use, modify, and share.
