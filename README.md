@@ -4,11 +4,11 @@ A simple and beautiful **web-based music player** built using **HTML, CSS, and J
 ---
 ## 🚀 Demo
 
-### 🌐 Live demo: [click here](https://draganddrop01.netlify.app/)
+### 🌐 Live demo: [click here](https://musicplayerss.netlify.app/)
 
 #### or, 
 
-### link: https://draganddrop01.netlify.app/
+### link: https://musicplayerss.netlify.app/
 ---
 
 ## 🖼️ Preview
