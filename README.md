@@ -4,11 +4,11 @@ A simple and beautiful **web-based music player** built using **HTML, CSS, and J
 ---
 ## 🚀 Demo
 
-### 🌐 Live demo: [click here](https://musicplayerss.netlify.app/)
+### 🌐 Live demo: [click here](https://shifat01.github.io/Music-Player/)
 
 #### or, 
 
-### link: https://musicplayerss.netlify.app
+### link: https://shifat01.github.io/Music-Player/
 ---
 
 ## 🖼️ Preview
