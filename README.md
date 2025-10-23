@@ -8,7 +8,7 @@ A simple and beautiful **web-based music player** built using **HTML, CSS, and J
 
 #### or, 
 
-### link: https://musicplayerss.netlify.app/
+### link: https://musicplayerss.netlify.app
 ---
 
 ## 🖼️ Preview
